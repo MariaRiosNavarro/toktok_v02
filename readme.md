@@ -9,7 +9,9 @@ It's a platform where you can share your personality and interests with the worl
 
 It is a clone of the well-known social network for uploading photos and commenting on photos, although the name does not refer to the Asian social network for uploading videos.
 
-[Deployment](https://toktok-ny7a.onrender.com/loading)
+[Deployment](https://toktok-v02.onrender.com/loading)
+
+[Original and first Repository Version, mainMerge branch](https://github.com/MariaRiosNavarro/toktok_backend/tree/mergeMain)
 
 [Andres Presentation](./readmeAssets/toktok.pdf)
 
